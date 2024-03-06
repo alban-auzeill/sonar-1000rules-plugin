@@ -1,0 +1,21 @@
+{
+  "title": "The rule S0559",
+  "type": "CODE_SMELL",
+  "code": {
+    "impacts": {
+      "MAINTAINABILITY": "MEDIUM"
+    },
+    "attribute": "CONVENTIONAL"
+  },
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "0min"
+  },
+  "tags": [],
+  "defaultSeverity": "Major",
+  "ruleSpecification": "RSPEC-0559",
+  "sqKey": "S0559",
+  "scope": "Main",
+  "quickfix": "unknown"
+}

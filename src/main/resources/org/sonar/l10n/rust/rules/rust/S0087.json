@@ -1,0 +1,21 @@
+{
+  "title": "The rule S0087",
+  "type": "CODE_SMELL",
+  "code": {
+    "impacts": {
+      "MAINTAINABILITY": "MEDIUM"
+    },
+    "attribute": "CONVENTIONAL"
+  },
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "0min"
+  },
+  "tags": [],
+  "defaultSeverity": "Major",
+  "ruleSpecification": "RSPEC-0087",
+  "sqKey": "S0087",
+  "scope": "Main",
+  "quickfix": "unknown"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "The rule S0285",
+  "type": "CODE_SMELL",
+  "code": {
+    "impacts": {
+      "MAINTAINABILITY": "MEDIUM"
+    },
+    "attribute": "CONVENTIONAL"
+  },
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "0min"
+  },
+  "tags": [],
+  "defaultSeverity": "Major",
+  "ruleSpecification": "RSPEC-0285",
+  "sqKey": "S0285",
+  "scope": "Main",
+  "quickfix": "unknown"
+}

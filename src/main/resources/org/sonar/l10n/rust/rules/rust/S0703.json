@@ -1,0 +1,21 @@
+{
+  "title": "The rule S0703",
+  "type": "CODE_SMELL",
+  "code": {
+    "impacts": {
+      "MAINTAINABILITY": "MEDIUM"
+    },
+    "attribute": "CONVENTIONAL"
+  },
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "0min"
+  },
+  "tags": [],
+  "defaultSeverity": "Major",
+  "ruleSpecification": "RSPEC-0703",
+  "sqKey": "S0703",
+  "scope": "Main",
+  "quickfix": "unknown"
+}

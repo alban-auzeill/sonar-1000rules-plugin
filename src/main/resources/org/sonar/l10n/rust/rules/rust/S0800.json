@@ -1,0 +1,21 @@
+{
+  "title": "The rule S0800",
+  "type": "CODE_SMELL",
+  "code": {
+    "impacts": {
+      "MAINTAINABILITY": "MEDIUM"
+    },
+    "attribute": "CONVENTIONAL"
+  },
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "0min"
+  },
+  "tags": [],
+  "defaultSeverity": "Major",
+  "ruleSpecification": "RSPEC-0800",
+  "sqKey": "S0800",
+  "scope": "Main",
+  "quickfix": "unknown"
+}
